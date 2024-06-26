@@ -1,0 +1,22 @@
+{
+  "name": "road-to-react",
+  "version": "1.0.0",
+  "description": "namaste react course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulfackerhisham/road-to-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Hisham Dulfacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulfackerhisham/road-to-react/issues"
+  },
+  "homepage": "https://github.com/dulfackerhisham/road-to-react#readme"
+}
